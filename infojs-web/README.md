@@ -1,7 +1,4 @@
 # InfoJs ⚡
-
-github:https://github.com/sudongyuer/info-js
-
 更方便的获取客户端信息
 
 ![infoJs](https://static01.imgkr.com/temp/a4132579f1c94298a3b47d8707b1ef72.png)

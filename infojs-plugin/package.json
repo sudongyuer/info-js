@@ -1,5 +1,5 @@
 {
-  "name": "@imf/infojs-plugin",
+  "name": "sudongyu-infojs-plugin",
   "version": "1.0.6",
   "description": "infoJs vite plugin",
   "main": "index.js",
@@ -9,6 +9,5 @@
   "author": "IMF",
   "license": "ISC",
   "publishConfig": {
-    "@imf:registry": "http://maven.jinuo.me/repository/jinuo-npm-inner"
   }
 }
