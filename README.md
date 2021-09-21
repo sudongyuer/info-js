@@ -5,6 +5,9 @@ github:https://github.com/sudongyuer/info-js
 更方便的获取客户端信息
 
 ![infoJs](https://static01.imgkr.com/temp/a4132579f1c94298a3b47d8707b1ef72.png)
+
+## 声明
+这个库是我在公司编写的,所以是属于imf团队,为了方便大家使用我将包发布到了我的npm仓库
 ## Install 💡
 ```shell
 npm install sudongyu-info-js --save
